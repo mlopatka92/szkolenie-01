@@ -3,10 +3,11 @@ package pl.mlopatka.szkolenie;
 public class ZmienneZadanie03 {
 
     private static final int NAJWYZSZA_OCENA = 6;
+    private static final int NAJNIZSZA_OCENA = 1;
 
     public static void main(String[] args) {
         System.out.println("***Zadanie 3***");
-        int ocenaTytusa = 3;
+        int ocenaTytusa = NAJNIZSZA_OCENA + 2;
         int ocenaRomka = 5;
         int ocenaAtomka = NAJWYZSZA_OCENA;
 
