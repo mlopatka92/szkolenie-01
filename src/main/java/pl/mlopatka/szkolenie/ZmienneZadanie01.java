@@ -6,7 +6,6 @@ public class ZmienneZadanie01 {
         System.out.println("***Zadanie 1***"); // Ta linijka kodu powoduje wypisanie na kolsoli tekstu '***Zadanie 1***'
 
         // TODO Zadeklaruj zmienną o nazwie wysokoscTrojkata (wysokosc)
-        int wysokoscTrojkata;
         int podstawaTrojkata = 10;
         int poleTrojkata = 20;
 
